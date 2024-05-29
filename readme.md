@@ -45,6 +45,6 @@ Obrigado por fazer parte dessa jornada conosco. Juntos, continuaremos a inovar e
 
 #### Criadores:
 Desenvolvido por: 
-*Luiz cunha, "Fez a pagina de jogos";
-*Arthur carreiro, "Fez a pagina inicial, e também a pagina de videogames";
-*João p. navarro, "Fez a pagina de computadores";
+* Luiz cunha, "Fez a pagina de jogos";
+* Arthur carreiro, "Fez a pagina inicial, e também a pagina de videogames";
+* João p. navarro, "Fez a pagina de computadores";
